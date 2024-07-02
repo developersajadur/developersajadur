@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/6r57s0G/Black-and-Blue-Technology-Developer-Linked-In-Banner.png"  />
 </div>
+
 ###
 
 <h2 align="left">Tools & Technologies</h2>
@@ -48,8 +49,9 @@
 <h2 align="left">Profile Stats 🏆</h2>
 
 ##
+
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react" alt="profile details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react" alt="stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8" alt="productive time"/>
 </div>
