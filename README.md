@@ -20,8 +20,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react" alt="stats" style="width: 49%;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8" alt="productive time" style="width: 49%;" />
 </div>
-###
 
+###
 <h2 align="left">Tools & Technologies</h2>
 
 ###
