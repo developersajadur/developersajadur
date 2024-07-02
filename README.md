@@ -48,8 +48,6 @@
 
 <h2 align="left">Profile Stats 🏆</h2>
 
-##
-
 <div align="center" style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react" alt="profile details" style="width: 100%;" />
 </div>
