@@ -15,8 +15,10 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react)
+<div width="100%">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8)
+</div>
 
 ###
