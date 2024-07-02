@@ -50,8 +50,8 @@
 
 ##
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react" alt="profile details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react" alt="stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8" alt="productive time"/>
+<div align="center" style="width: 100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react" alt="profile details" style="width: 100%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react" alt="stats" style="width: 100%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8" alt="productive time" style="width: 100%;" />
 </div>
