@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/6r57s0G/Black-and-Blue-Technology-Developer-Linked-In-Banner.png](https://cw7r8vz63x.ufs.sh/f/UFaxViFOIbgQVUeYkps2LpBzfhrWJtgZKTnEG6ciqbesA1jC" />  
+  <img src="https://cw7r8vz63x.ufs.sh/f/UFaxViFOIbgQVUeYkps2LpBzfhrWJtgZKTnEG6ciqbesA1jC" />  
 </div>
 
 ###
@@ -54,14 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
   <img width="15" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="45" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
   <img width="15" />
   
-  <img src="https://i.ibb.co/gJFsvxM/sslcommerz.png" height="45" alt="sslcommerz logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" height="45" alt="stripe logo" />
-  <img width="15" />
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
