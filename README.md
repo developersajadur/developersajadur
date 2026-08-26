@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="developersajadur's GitHub profile" src="dark_mode.svg" />
+  <img alt="developersajadur's GitHub profile" src="https://res.cloudinary.com/devsajadurrahman/image/upload/v1787731174/hfjpnzczo8thrvfhqmus.svg" />
 </picture>
 
 ###
