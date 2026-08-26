@@ -70,14 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
   <img width="15" />
 
-  <!-- RAG -->
-<img
-  src="https://img.shields.io/badge/RAG-LLM%20Retrieval%20Augmented%20Generation-blue?style=for-the-badge"
-  height="30"
-  alt="RAG - Retrieval Augmented Generation"
-/>
-<img width="15" />
-
   <!-- Vector Database / Qdrant -->
   <img src="https://cdn.simpleicons.org/qdrant" height="45" alt="qdrant vector database logo" />
   <img width="15" />
