@@ -24,55 +24,64 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
   <img width="15" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="45" alt="golang logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
   <img width="15" />
-  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo" />
+  <img width="15" />
+
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
   <img width="15" />
-  
+
   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" height="45" alt="mongoose logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" alt="prisma logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
   <img width="15" />
-  
+
+  <!-- RAG -->
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="rag logo" />
+  <img width="15" />
+
+  <!-- Vector Database / Qdrant -->
+  <img src="https://cdn.simpleicons.org/qdrant" height="45" alt="qdrant vector database logo" />
+  <img width="15" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
   <img width="15" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
-  <img width="15" />
-  
 </div>
 
 ## :chart_with_upwards_trend: Current Stats
