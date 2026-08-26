@@ -1,7 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="developersajadur's GitHub profile" src="https://res.cloudinary.com/devsajadurrahman/image/upload/v1787731174/hfjpnzczo8thrvfhqmus.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/developersajadur/developersajadur/main/dark_mode.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/developersajadur/developersajadur/main/light_mode.svg"
+  />
+
+  <img
+    alt="developersajadur's GitHub profile"
+    src="https://res.cloudinary.com/devsajadurrahman/image/upload/v1787731174/hfjpnzczo8thrvfhqmus.svg"
+  />
 </picture>
 
 ###
@@ -74,10 +85,10 @@
 <h2 align="left">Profile Stats 🏆</h2>
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react" alt="profile details" style="width: 100%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developersajadur&theme=react" alt="profile details" style="width: 100%;" />
 </div>
 <br />
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react" alt="stats" style="width: 49%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8" alt="productive time" style="width: 49%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=developersajadur&theme=react" alt="stats" style="width: 49%;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=developersajadur&theme=react&utcOffset=8" alt="productive time" style="width: 49%;" />
 </div>
