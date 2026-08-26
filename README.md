@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://cw7r8vz63x.ufs.sh/f/UFaxViFOIbgQVUeYkps2LpBzfhrWJtgZKTnEG6ciqbesA1jC" />  
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="developersajadur's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ###
 
